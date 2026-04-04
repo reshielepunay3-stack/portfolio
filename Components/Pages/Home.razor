@@ -1,0 +1,67 @@
+﻿@page "/"
+
+<div class="container">
+    <div class="card">
+
+   <h1 class="name-header">
+    <img src="images/profile (2).jpg" alt="Profile Photo" class="profile-inline" />
+    
+</h1>
+
+        <h1>@name</h1>
+        <p class="contact">
+            📞 @phone <br />
+            📧 @email <br />
+            🌐 @facebook
+        </p>
+
+        <section>
+            <h2>Objective</h2>
+            <p>
+                A motivated and hardworking individual seeking opportunities to learn, grow, and develop new skills.
+                I may be an introvert, but I am dedicated, focused, and perform well when given the chance to work
+                in a comfortable environment.
+            </p>
+        </section>
+
+        <section>
+            <h2>Personal Profile</h2>
+            <p>
+                I am an introverted person who prefers small groups and meaningful conversations. I may appear
+                nonchalant at first, but I become more expressive and communicative once I feel comfortable.
+                I am a slow learner, but I am persistent and always do my best to understand and improve.
+                I enjoy peaceful activities like sightseeing and exploring new places.
+            </p>
+        </section>
+
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>Hardworking and highly dedicated to completing tasks efficiently</li>
+                <li>Willing to learn and open to new knowledge, skills, and experiences</li>
+                <li>Patient and persistent, especially when facing challenges</li>
+                <li>Ability to adapt and improve through practice and guidance</li>
+                <li>Responsible and reliable in assigned tasks</li>
+                <li>Basic problem-solving and critical thinking skills</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Hobbies and Interests</h2>
+            <ul>
+                <li>Sightseeing and exploring new environments</li>
+                <li>Photography (capturing moments and scenery)</li>
+                <li>Cooking basic meals</li>
+                <li>Interested in arts and creativity</li>
+                <li>Learning musical instruments such as guitar</li>
+            </ul>
+        </section>
+    </div>
+</div>
+
+@code {
+    string name = "Reshiele Punay";
+    string phone = "0910 823 1081";
+    string email = "reshielepunay3@gmail.com";
+    string facebook = "Reshiele Punay";
+}

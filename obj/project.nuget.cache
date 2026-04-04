@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5bn2+lBNeOc=",
+  "success": true,
+  "projectFilePath": "C:\\xampp\\htdocs\\portfolio_punay\\punayApi\\punayApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Janine B. Tillor\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.5\\microsoft.aspnetcore.app.internal.assets.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
