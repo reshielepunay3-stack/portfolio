@@ -83,3 +83,4 @@ C:\xampp\htdocs\portfolio_punay\punayApi\obj\Debug\net10.0\punayApi.pdb
 C:\xampp\htdocs\portfolio_punay\punayApi\obj\Debug\net10.0\punayApi.genruntimeconfig.cache
 C:\xampp\htdocs\portfolio_punay\punayApi\obj\Debug\net10.0\ref\punayApi.dll
 C:\xampp\htdocs\portfolio_punay\punayApi\obj\Debug\net10.0\compressed\fn886fqyrg-{0}-9noh9ypqiw-9noh9ypqiw.gz
+C:\xampp\htdocs\portfolio_punay\punayApi\obj\Debug\net10.0\punayApi.sourcelink.json
